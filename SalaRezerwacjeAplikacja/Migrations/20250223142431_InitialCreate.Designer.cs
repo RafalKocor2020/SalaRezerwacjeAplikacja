@@ -11,7 +11,7 @@ using SalaRezerwacjeAplikacja.Data;
 namespace SalaRezerwacjeAplikacja.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250222192440_InitialCreate")]
+    [Migration("20250223142431_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

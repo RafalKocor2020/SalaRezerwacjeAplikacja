@@ -57,17 +57,17 @@
             // dataGridViewRooms
             // 
             dataGridViewRooms.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewRooms.Location = new Point(38, 12);
+            dataGridViewRooms.Location = new Point(23, 12);
             dataGridViewRooms.Name = "dataGridViewRooms";
-            dataGridViewRooms.Size = new Size(228, 143);
+            dataGridViewRooms.Size = new Size(311, 143);
             dataGridViewRooms.TabIndex = 0;
             // 
             // dataGridViewReservations
             // 
             dataGridViewReservations.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewReservations.Location = new Point(540, 12);
+            dataGridViewReservations.Location = new Point(464, 12);
             dataGridViewReservations.Name = "dataGridViewReservations";
-            dataGridViewReservations.Size = new Size(228, 143);
+            dataGridViewReservations.Size = new Size(324, 143);
             dataGridViewReservations.TabIndex = 1;
             // 
             // textBoxNazwaSali
@@ -221,7 +221,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(808, 451);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
